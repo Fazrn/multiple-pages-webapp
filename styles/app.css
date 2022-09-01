@@ -1,0 +1,27 @@
+body {
+  background-color: #e0ffcd;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  margin: 1em;
+}
+
+.links a {
+  margin: 1em;
+  color: #407088;
+}
+
+p {
+  text-align: center;
+}
